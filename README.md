@@ -63,7 +63,7 @@
 
 # 视频演示
 
-> [video(video-cNbAnUx3-1779683591032)(type-csdn)(url-https://live.csdn.net/v/embed/527822)(image-https://v-blog.csdnimg.cn/asset/f3cd57443f3d6b9ffd7b128054e759e7/cover/Cover0.jpg)(title-使用BrightData AI Studio自动整理海外资讯)]
+> [video(video-cNbAnUx3-1779683591032)(type-csdn)(url-https://live.csdn.net/v/embed/527822)(title-使用BrightData AI Studio自动整理海外资讯)]
 
 # 结语
 
